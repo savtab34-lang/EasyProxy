@@ -1,8 +1,10 @@
 aiohttp
 aiohttp-proxy
 gunicorn
+uvicorn
 python-dotenv
 zstandard
 pycryptodome
 beautifulsoup4
 lxml
+
